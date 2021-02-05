@@ -1,0 +1,24 @@
+{
+  "name": "em-data-bot",
+  "version": "1.0.0",
+  "description": "A bot to talk to the EM database",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mantinone/EM-Data-Bot.git"
+  },
+  "author": "Max Antinone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mantinone/EM-Data-Bot/issues"
+  },
+  "homepage": "https://github.com/mantinone/EM-Data-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
